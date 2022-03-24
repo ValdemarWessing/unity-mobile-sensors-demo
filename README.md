@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/43847716/159903108-334d1a2a-2979-4b08-
 
 ##### Steps:
 * This application uses gyroscope so you should check that your device supports gyroscope.
-* Most sensors are disable by default, so enable the gyroscope in the start function.
+* Most sensors are disabled by default, so enable the gyroscope in the start function.
 * Use the attitude of the gyroscope to control rotation of the plane (be aware that some axes may need to be swapped).
 
 
